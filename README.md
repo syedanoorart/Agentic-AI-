@@ -1,44 +1,35 @@
 SkillPilot AI 🚀
 
-A3 – A Personal Staff for Everyone
+Your Personal AI Career Coach
+
+Hackathon Track: A3 – A Personal Staff for Everyone
 
 Problem Statement
 
-Students often struggle to identify their actual strengths, technical skill gaps and suitable career opportunities. Traditional resume-based assessments and academic marks do not fully reflect a student's practical abilities.
+Students are judged by their marks, but marks don't show how they solve problems, handle mistakes or where they fit in the job market. When they apply for internships, they don't know which skills they lack or what to learn next.
 
 Our Solution
 
-SkillPilot AI is an intelligent personal career development agent that helps students discover their potential through real-world challenges and AI-powered assessments.
-
-It analyses student resumes, evaluates practical skills, identifies strengths and weaknesses, and generates personalised learning roadmaps.
+SkillPilot AI is an AI-powered career coach that assesses students through real-world tasks, identifies their strengths and skill gaps, compares their abilities against target job roles, and creates personalised learning roadmaps with practical projects and progress tracking.
 
 Key Features
 
-- AI Resume Analysis: Extracts existing skills and experience.
-- Practical Skill Assessment: Evaluates students through real-world challenges.
-- Strength Discovery: Identifies demonstrated abilities and areas for improvement.
-- Skill Gap Analysis: Compares current skills against target career requirements.
-- Personalised Learning Roadmap: Recommends what to learn next.
-- Project Recommendations: Suggests practical projects to build experience.
-- Portfolio Development: Helps students showcase their capabilities.
-- Career Opportunities: Helps discover suitable internships and placements.
-
-Target Users
-
-Students seeking internships, placements and career development.
+- AI-powered resume analysis
+- Real-world skill assessments
+- Strength and skill-gap identification
+- Personalised learning roadmaps
+- Practical project recommendations
+- Learning progress tracking
+- Internship and placement assistance
 
 Technology Stack
 
 - Python
-- Large Language Models (LLMs)
-- PDF Resume Extraction
+- Google Gemini API
 - Streamlit
-- Database Integration
+- PyMuPDF
+- SQLite
 
-Our Vision
+Vision
 
-To move beyond marks and certificates and help every student discover, develop and demonstrate their actual potential.
-
----
-
-Building an AI career companion that turns potential into practical skills.
+To help students discover their potential, develop practical skills and demonstrate their true abilities beyond academic marks.
