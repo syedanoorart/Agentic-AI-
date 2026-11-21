@@ -8,9 +8,25 @@ Problem Statement
 
 Students are judged by their marks, but marks don't show how they solve problems, handle mistakes or where they fit in the job market. When they apply for internships, they don't know which skills they lack or what to learn next.
 
-Our Solution
+Our Solution – SkillPilot AI
 
-SkillPilot AI is an AI-powered career coach that assesses students through real-world tasks, identifies their strengths and skill gaps, compares their abilities against target job roles, and creates personalised learning roadmaps with practical projects and progress tracking.
+SkillPilot AI is an intelligent personal career development agent that helps students discover their actual abilities through real-world practical assessments rather than relying solely on academic marks and resumes.
+
+Students upload their resumes and select a target career. The AI analyses their existing skills and evaluates their practical abilities through interactive challenges such as debugging code, solving technical problems and explaining design decisions.
+
+It observes their answers, problem-solving approaches, mistakes and improvements to identify demonstrated strengths and areas requiring development.
+
+Based on these assessments, SkillPilot AI:
+
+- Discovers students' demonstrated strengths and technical weaknesses.
+- Compares their abilities against real job-role requirements.
+- Generates adaptive, personalised learning roadmaps.
+- Recommends practical projects to develop missing skills.
+- Tracks skill improvement through repeated assessments.
+- Builds a portfolio showcasing completed challenges and projects.
+- Helps students discover suitable internships and placement opportunities.
+
+Our goal is to move beyond resume-based evaluation and help students discover, develop and demonstrate their real-world capabilities.
 
 Key Features
 
